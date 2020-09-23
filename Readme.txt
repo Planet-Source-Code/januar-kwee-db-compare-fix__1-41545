@@ -1,0 +1,1 @@
+This small program is very usefull when you want to compare destination mdb file from your development mdb. It is not only compare the database (tables, indexes and queries) schema but also Fix It !, this prog use temporary mdb to hold the schema so you just bring this prog and schema file and compare it at your customer. if you like it please give me a credit!
